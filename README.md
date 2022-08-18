@@ -1,1 +1,1 @@
-ourse material for learncpp.org
+Course material for learncpp.org
